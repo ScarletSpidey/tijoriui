@@ -23,6 +23,7 @@ function App() {
         <Switch>
         
           <Route path="/" exact component={() => <Home />} />
+          <Route path="/tijoriui" exact component={() => <Home />} />
           <Route path="/Project" exact component={() => <Projects />} />
           <Route path="/DAO" exact component={() => <DAO />} />
 

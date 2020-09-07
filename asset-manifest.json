@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.69eda509.chunk.css",
-    "main.js": "/static/js/main.365f845a.chunk.js",
-    "main.js.map": "/static/js/main.365f845a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.35eb2b37.js",
-    "runtime-main.js.map": "/static/js/runtime-main.35eb2b37.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.3c453539.chunk.js": "/static/js/2.3c453539.chunk.js",
-    "static/js/2.3c453539.chunk.js.map": "/static/js/2.3c453539.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.6e8d42714a0a33105ea8cf1cfd7f33ba.js": "/precache-manifest.6e8d42714a0a33105ea8cf1cfd7f33ba.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.69eda509.chunk.css.map": "/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.3c453539.chunk.js.LICENSE.txt": "/static/js/2.3c453539.chunk.js.LICENSE.txt",
-    "static/media/carousel1.svg": "/static/media/carousel1.2017454e.svg",
-    "static/media/carousel2.svg": "/static/media/carousel2.c5f5e8bc.svg",
-    "static/media/carousel4.svg": "/static/media/carousel4.c5c5bf25.svg",
-    "static/media/molecular.png": "/static/media/molecular.e2546714.png"
+    "main.css": "/tijoriui/static/css/main.69eda509.chunk.css",
+    "main.js": "/tijoriui/static/js/main.10537b4e.chunk.js",
+    "main.js.map": "/tijoriui/static/js/main.10537b4e.chunk.js.map",
+    "runtime-main.js": "/tijoriui/static/js/runtime-main.758c9892.js",
+    "runtime-main.js.map": "/tijoriui/static/js/runtime-main.758c9892.js.map",
+    "static/css/2.11829350.chunk.css": "/tijoriui/static/css/2.11829350.chunk.css",
+    "static/js/2.3c453539.chunk.js": "/tijoriui/static/js/2.3c453539.chunk.js",
+    "static/js/2.3c453539.chunk.js.map": "/tijoriui/static/js/2.3c453539.chunk.js.map",
+    "index.html": "/tijoriui/index.html",
+    "precache-manifest.b91a6ce9dd2674f3c23852a3864af0f9.js": "/tijoriui/precache-manifest.b91a6ce9dd2674f3c23852a3864af0f9.js",
+    "service-worker.js": "/tijoriui/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/tijoriui/static/css/2.11829350.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/tijoriui/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.3c453539.chunk.js.LICENSE.txt": "/tijoriui/static/js/2.3c453539.chunk.js.LICENSE.txt",
+    "static/media/carousel1.svg": "/tijoriui/static/media/carousel1.2017454e.svg",
+    "static/media/carousel2.svg": "/tijoriui/static/media/carousel2.c5f5e8bc.svg",
+    "static/media/carousel4.svg": "/tijoriui/static/media/carousel4.c5c5bf25.svg",
+    "static/media/molecular.png": "/tijoriui/static/media/molecular.e2546714.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.35eb2b37.js",
+    "static/js/runtime-main.758c9892.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.3c453539.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.365f845a.chunk.js"
+    "static/js/main.10537b4e.chunk.js"
   ]
 }

@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tijoriui/static/css/main.69eda509.chunk.css",
-    "main.js": "/tijoriui/static/js/main.76dc33a6.chunk.js",
-    "main.js.map": "/tijoriui/static/js/main.76dc33a6.chunk.js.map",
+    "main.js": "/tijoriui/static/js/main.10537b4e.chunk.js",
+    "main.js.map": "/tijoriui/static/js/main.10537b4e.chunk.js.map",
     "runtime-main.js": "/tijoriui/static/js/runtime-main.758c9892.js",
     "runtime-main.js.map": "/tijoriui/static/js/runtime-main.758c9892.js.map",
     "static/css/2.11829350.chunk.css": "/tijoriui/static/css/2.11829350.chunk.css",
     "static/js/2.3c453539.chunk.js": "/tijoriui/static/js/2.3c453539.chunk.js",
     "static/js/2.3c453539.chunk.js.map": "/tijoriui/static/js/2.3c453539.chunk.js.map",
     "index.html": "/tijoriui/index.html",
-    "precache-manifest.787a36ff262b903fcb0548057b2b6d5d.js": "/tijoriui/precache-manifest.787a36ff262b903fcb0548057b2b6d5d.js",
+    "precache-manifest.b91a6ce9dd2674f3c23852a3864af0f9.js": "/tijoriui/precache-manifest.b91a6ce9dd2674f3c23852a3864af0f9.js",
     "service-worker.js": "/tijoriui/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/tijoriui/static/css/2.11829350.chunk.css.map",
     "static/css/main.69eda509.chunk.css.map": "/tijoriui/static/css/main.69eda509.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.11829350.chunk.css",
     "static/js/2.3c453539.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.76dc33a6.chunk.js"
+    "static/js/main.10537b4e.chunk.js"
   ]
 }

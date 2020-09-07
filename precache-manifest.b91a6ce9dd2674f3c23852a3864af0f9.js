@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c2eee786ad815f486e0c3258d1bfb3a6",
+    "revision": "4f8469924cfb0766d63dba0fe32e376c",
     "url": "/tijoriui/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tijoriui/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "20fedb969a2787a47c6b",
+    "revision": "606cb0a4357fa09c2a70",
     "url": "/tijoriui/static/css/main.69eda509.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tijoriui/static/js/2.3c453539.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "20fedb969a2787a47c6b",
-    "url": "/tijoriui/static/js/main.76dc33a6.chunk.js"
+    "revision": "606cb0a4357fa09c2a70",
+    "url": "/tijoriui/static/js/main.10537b4e.chunk.js"
   },
   {
     "revision": "e2a6000f84767cd5aa57",

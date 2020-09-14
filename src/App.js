@@ -11,7 +11,7 @@
 
 
 import React from "react";
-import { HashRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import { Navigation, Footer, Home, About, DAO, Projects, ProjectProfile, DaoCards, ProjectPage, ReactPage} from "./components";
 import AboutPage from "./components/AboutPage"
 

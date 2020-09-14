@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4f8469924cfb0766d63dba0fe32e376c",
+    "revision": "50536db0f60492d62e835f2e4fdf2648",
     "url": "/tijoriui/index.html"
   },
   {
-    "revision": "c36fe1a819d43efd7cc1",
+    "revision": "dff5972b3743f591d4af",
     "url": "/tijoriui/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "606cb0a4357fa09c2a70",
+    "revision": "b7b869b81dc00b9d39e4",
     "url": "/tijoriui/static/css/main.69eda509.chunk.css"
   },
   {
-    "revision": "c36fe1a819d43efd7cc1",
-    "url": "/tijoriui/static/js/2.3c453539.chunk.js"
+    "revision": "dff5972b3743f591d4af",
+    "url": "/tijoriui/static/js/2.667fdd81.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/tijoriui/static/js/2.3c453539.chunk.js.LICENSE.txt"
+    "url": "/tijoriui/static/js/2.667fdd81.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "606cb0a4357fa09c2a70",
-    "url": "/tijoriui/static/js/main.10537b4e.chunk.js"
+    "revision": "b7b869b81dc00b9d39e4",
+    "url": "/tijoriui/static/js/main.e0aac870.chunk.js"
   },
   {
     "revision": "e2a6000f84767cd5aa57",

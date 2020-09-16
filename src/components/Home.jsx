@@ -19,7 +19,7 @@ function Home() {
           <div className="col-md-8">
             
 
-            <div className="pt-5 mt-5">
+            <div className="py-5 mt-5">
             <Carousel>
                 <Carousel.Item>
                   <img
@@ -66,6 +66,19 @@ function Home() {
 
           <div className="col-md-2">
             
+          </div>
+        </div>
+        <div className="py-5">
+          <hr className ="pb-4" />
+          <div className="text-center">
+            <h2 className="">Our funding rounds are governed by a</h2>
+            <h1 className="text-primary text-bold pb-2">Decentralized Autonomous Organization</h1> 
+            <br />
+            <p className="text-mute">To explore, click on "Go to Governance"</p>
+            <button className="btn btn-secondary btn-lg">GO TO GOVERNANCE</button>
+            &nbsp;&nbsp;&nbsp;&nbsp;
+            <button className="btn btn-primary btn-lg">BUY GOVERNANCE TOKENS</button>
+
           </div>
         </div>
       </div>

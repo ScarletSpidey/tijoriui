@@ -25,23 +25,25 @@ const ReactPage = (props) => {
         </div>
           <div className="container">
             <div className="row">
-              <div className="col-md-4">
+              <div className="col-md-5">
 
-                <img  alt="daocardimage"  src={sampleData[id-1].image}   style={{ width:'430px' }}  />
+                <img  alt="daocardimage"  src={sampleData[id-1].image}   style={{ width:'90%' }}  />
+                  <br />
+                  <br />
+                  <h5 className="font-weight-light">
+                      <a href="/" className="btn btn-outline-info btn-lg pr-2">Connect with us</a>
+                      &nbsp;&nbsp;&nbsp;
+                      <a href="/" className="btn btn-outline-success btn-lg ">Github Link</a>
 
+                    </h5>
               </div>
-              <div className="col-md-1">
-
-              </div>
+              
               <div className="col-md-7">
                   
                     <h2 className="font-weight-bold"> {sampleData[id-1].title} </h2>
                     <br/>
                     <h5 className="font-weight-light">
-                      <a href="/" className="btn btn-outline-info btn-lg pr-4">Connect with us</a>
-                      <br/>
-                      <br/>
-                      <a href="/" className="btn btn-outline-success btn-lg pr-4">Github Link</a>
+                      Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur, earum dolorem eveniet ratione voluptatibus incidunt ad quo expedita modi animi. Magni expedita architecto commodi dolorem ipsam adipisci id esse dicta?
 
                     </h5>
                     <br/>
